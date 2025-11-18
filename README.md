@@ -21,7 +21,7 @@ C++ WinAPI로 구현한 2D 액션 게임 'Cuphead' 모작 프로젝트의 대표
 </div>
 
 <div align="center">
-    <a href="https://MyYouTubeLink" target="_blank">
-        YouTube
+    <a href="https://youtu.be/OQq-E73Qcjk?si=kwY6Cp0lv0ljG2RE" target="_blank">
+        YouTube 영상 보기
     </a>
 </div>
