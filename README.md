@@ -6,16 +6,16 @@ C++ WinAPI로 구현한 2D 액션 게임 'Cuphead' 모작 프로젝트의 대표
 <div align="center>
     <table>
         <tr>
-            <td><img src="images/....png" width="360" alt="컵헤드 모작 스크린샷1"></td>
-            <td><img src="images/....png" width="360" alt="컵헤드 모작 스크린샷2"></td>
+            <td><img src="Images/Cuphead_1.png" width="360" alt="컵헤드 모작 스크린샷1"></td>
+            <td><img src="Images/Cuphead_2.png" width="360" alt="컵헤드 모작 스크린샷2"></td>
         </tr>
         <tr>
-            <td><img src="images/....png" width="360" alt="컵헤드 모작 스크린샷3"></td>
-            <td><img src="images/....png" width="360" alt="컵헤드 모작 스크린샷4"></td>
+            <td><img src="Images/Cuphead_4.png" width="360" alt="컵헤드 모작 스크린샷3"></td>
+            <td><img src="Images/Cuphead_3.png" width="360" alt="컵헤드 모작 스크린샷4"></td>
         </tr>
         <tr>
-            <td><img src="images/....png" width="360" alt="컵헤드 모작 스크린샷5"></td>
-            <td><img src="images/....png" width="360" alt="컵헤드 모작 스크린샷6"></td>
+            <td><img src="Images/Cuphead_7.png" width="360" alt="컵헤드 모작 스크린샷5"></td>
+            <td><img src="Images/Cuphead_9.png" width="360" alt="컵헤드 모작 스크린샷6"></td>
         </tr>
     </table>
 </div>
